@@ -1,0 +1,21 @@
+-understand the problem
+-explore concrete examples
+-break it downn
+-solve and simplify
+-look back and refactor
+
+strategies from George polya
+
+understand the problem
+1..can i restart the problems in my own words
+2..
+
+problem solving patterns
+.frequency counter
+.mulitple pointers
+.sliding window
+.divide and conquer
+.dynamic programming
+.greedy algorthm
+.backtracking
+.manymore

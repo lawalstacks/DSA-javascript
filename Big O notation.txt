@@ -1,0 +1,11 @@
+big o notation of objects - an excellent choice when you dont need any ordering
+insertion - O(1);
+removal - O(1);
+searching - O(N);
+access - O(1);
+
+array 
+insertion - depends
+removal - depends
+searching - O(N);
+access - O(1) 
